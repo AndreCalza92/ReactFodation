@@ -29,3 +29,13 @@ body{
 	background-color: gray;
 	cursor: pointer;
 }
+
+.box-novo-usuario {
+	min-height: 440px; 
+	border-radius: 10px;
+	background-color: #eee;
+}
+
+.list-group-item:hover {
+	background-color: #eee !important;
+}
