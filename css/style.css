@@ -39,3 +39,13 @@ body{
 .list-group-item:hover {
 	background-color: #eee !important;
 }
+
+.label-senha {
+	padding-left: 0 !important;
+}
+
+.topo-login-cadastro {
+	height: 200px;
+	padding: 20px;
+	margin-top: 50px;
+}
